@@ -8,7 +8,7 @@ public class ArrayExample {
 //		String s[]=new String[5];
 		
 		//we can also declare as below
-		String s[]={"India","Japan","France","England","Spain"};
+		String s[]={"India","Japan","France","England","Spain","Belgium"};
 //		
 //		s[0]="India";
 //		s[1]="Japan";
@@ -16,7 +16,7 @@ public class ArrayExample {
 //		s[3]="England";
 //		s[4]="Spain";
 		
-		System.out.println(s[3]);
+		System.out.println(s[5]);
 		
 		
 		System.out.println(s.length);
